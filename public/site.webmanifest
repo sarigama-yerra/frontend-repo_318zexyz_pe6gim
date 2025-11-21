@@ -1,0 +1,9 @@
+{
+  "name": "Inigai",
+  "short_name": "Inigai",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F172A",
+  "theme_color": "#0F172A",
+  "icons": []
+}
